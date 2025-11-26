@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-  labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : [""]
-  labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : [""]
-  labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : [""]
-  labels[3] : {"texts" : ["탕수육st.title("이미지 분류기 (Fastai) — 확률 막대 + 라벨별 고정 콘텐츠")
+  labels[0] : {"texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg"]},
+  labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2020/06/04/d96e1e81ecc8d86c922d486ec6eec4da1.jpg"]},
+  labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]},
+  labels[3] : {"texts" : ["탕수육은 맛있어") "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D"]},
 
 # ======================
 # 세션 상태
