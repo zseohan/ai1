@@ -79,6 +79,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
   labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : ["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]},
   labels[3] : {"texts" : ["탕수육은 맛있어"] "images" : ["https://blog.kakaocdn.net/dna/qnIz2/btqSdtiK7C4/AAAAAAAAAAAAAAAAAAAAAK_eDgChgNlbA3DwDL3Rhp3zyE68j5YgxkTq4Zz6RRN5/img.jpg?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=IgQS1EsJodJN9xYMyJB6awE7Ae8%3D"]},
 
+}
 # ======================
 # 세션 상태
 # ======================
